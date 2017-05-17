@@ -1,0 +1,17 @@
+{
+  "name": "projectOne",
+  "homepage": "https://github.com/IvanJu07/projectOne",
+  "description": "Ivan",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
