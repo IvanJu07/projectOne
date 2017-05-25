@@ -1,6 +1,9 @@
 .features .glyphicon{
   font-size: 32px;
 }
+body{
+  padding-top: 70px;
+}
 .footer{
   padding: 20px 0;
 }
@@ -30,5 +33,6 @@ body{
   }
   .footer{
     height: 400px;
+    font-size: 0.8em;
   }
 }
